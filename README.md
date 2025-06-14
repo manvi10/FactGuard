@@ -17,7 +17,7 @@
 ---
 
 ## 🧱 Project Structure
-
+```plaintext
 FactGuard/
 ├── data/ # LIAR & Kaggle datasets
 ├── models/ # Trained model files (BERT, etc.)
