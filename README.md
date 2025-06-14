@@ -17,7 +17,7 @@
 ---
 
 ## 🧱 Project Structure
-
+```plaintext
 FactGuard/
 ├── data/ # LIAR & Kaggle datasets
 ├── models/ # Trained model files (BERT, etc.)
@@ -30,7 +30,7 @@ FactGuard/
 ├── frontend/ # React.js frontend interface
 ├── notebooks/ # Jupyter notebooks for EDA and experimentation
 └── README.md
-
+```
 
 ---
 
