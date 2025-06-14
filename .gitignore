@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+*.env
+*.log
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.pt
+*.pkl
+
+# Datasets
+/data/
+*.csv
+*.tsv
+*.zip
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Node/React
+node_modules/
+build/
+dist/
+.env.local
