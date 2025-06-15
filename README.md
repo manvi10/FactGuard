@@ -60,5 +60,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📬 Contact
 Sai Manvi Pallapothu
-Email: [your-email@example.com]
+Email: manvipallapothu31@gmail.com
 GitHub: https://github.com/manvi10
