@@ -46,9 +46,19 @@ FactGuard/
 
 ---
 
-📁 Datasets Used
+## 📁 Datasets Used
 LIAR dataset — Labelled fake/real statements from politifact.com
 
 Kaggle Fake News dataset — Real vs fake news articles
 
+---
 
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
+
+---
+
+## 📬 Contact
+Sai Manvi Pallapothu
+Email: [your-email@example.com]
+GitHub: https://github.com/manvi10
