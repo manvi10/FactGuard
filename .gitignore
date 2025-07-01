@@ -15,6 +15,10 @@ __pycache__/
 *.pt
 *.pkl
 
+models/**/model.safetensors
+models/**/model_weights.pt
+
+
 # Datasets
 /data/
 *.csv
