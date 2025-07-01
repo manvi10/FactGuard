@@ -51,3 +51,4 @@ __pycache__/
 # Mac/Windows system files
 .DS_Store
 Thumbs.db
+"models/BERT_FakeReal/model.safetensors" 
