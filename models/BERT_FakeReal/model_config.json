@@ -1,0 +1,7 @@
+{
+  "task": "fake_news_classification",
+  "model": "distilbert-base-uncased",
+  "num_labels": 2,
+  "max_seq_len": 512,
+  "notes": "Trained on Kaggle Fake and Real News dataset"
+}
